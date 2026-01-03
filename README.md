@@ -15,9 +15,9 @@ Currently pursuing B.Tech , I am passionate about IT, exploring AI/ML, Cybersecu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nihir-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nihir-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihir-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nihir-tech&show_icons=true&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nihir-tech&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihir-tech&layout=compact&theme=dark)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nihir-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
